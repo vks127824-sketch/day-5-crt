@@ -1,0 +1,11 @@
+//problem 4.2
+//message store
+
+#include <iostream>
+using namespace std;
+void sendMessage(string message){
+    cout << message;
+}
+int main(){
+    sendMessage ("BJP Boss...");
+}
