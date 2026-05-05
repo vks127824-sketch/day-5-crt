@@ -1,0 +1,20 @@
+//problem - 2
+//problem name - addition 2 numbers 
+#include <iostream>
+using namespace std;
+
+int main() {
+    int num1, num2, sum;
+
+    cout << "Enter first number: ";
+    cin >> num1;
+
+    cout << "Enter second number: ";
+    cin >> num2;
+
+    sum = num1 + num2;
+
+    cout << "Sum = " << sum;
+
+    return 0;
+}
