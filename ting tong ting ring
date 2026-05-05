@@ -1,0 +1,13 @@
+      //problem -4
+//problem- ring tijng tong ting
+    
+   #include<iostream>
+   using namespace std;
+   
+   void bellRing(){
+       cout<<"ting tong ting";
+   }
+   int main (){
+       bellRing();
+   }
+    
