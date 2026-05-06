@@ -1,0 +1,10 @@
+//day-6 problem 
+//problem-  5 of coffee total amount per coffee amount 20
+#include <iostream>
+using namespace std;
+int bill(int a) { 
+    return a * 30; }
+int main(){
+    int a = 5;
+    cout << "your bill is" << bill(a);
+}
